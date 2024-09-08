@@ -18,11 +18,11 @@ editor: visual
 
 ## Población Objetivo
 
--   Familias de Zonas urbanas y rurales.
+-   Alumnos de la universidad UTEC(Universidad de Ingeniería y Tecnología).
 
 ## Tipo de muestreo
 
--   Muestreo no probabilístico: Por conveniencia.
+-   Muestreo no probabilista: Por conveniencia.
 
 ## Variables
 
