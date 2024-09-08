@@ -1,0 +1,51 @@
+---
+title: "Estudio de consumo de la Quinua"
+format: html
+editor: visual
+---
+
+## Objetivo General
+
+-   Determinar si las familias consumen realmente la quinua en sus alimentos diarios y en que cantidad y momento lo realizan.
+
+## Objetivos Específicos
+
+-   Identificar las razones por las cuales las familias incluyen o no la quinua en su dieta diaria.
+-   Cuantificar la cantidad promedia de quinua consumida por las familias en sus comidas diarias.
+-   Determinar los momentos del día en que las familias suelen consumir quinua.
+-   Indagar sobre el posible impacto del precio de la quinua en el consumo por las familias.
+-   Evaluar el impacto del consumo de quinua en los indicadores de salud de los miembros de la familia.
+
+## Población Objetivo
+
+-   Familias de Zonas urbanas y rurales.
+
+## Tipo de muestreo
+
+-   Muestreo no probabilístico: Por conveniencia.
+
+## Variables
+
+### Variables Numéricas(cuantitativas)
+
+#### Discretas
+
+-   Peso(Kg)
+-   Altura(cm)
+-   Edad(años)
+-   Número de veces que se consume quinua en la semana.
+-   Número de personas en el hogar que consumen quinua. \#### Continuas
+-   Cantidad en gramos de quinua consumida por persona al día.
+-   Gasto promedio mensual en la compra de quinua.
+-   Índice de masa corporal (IMC) \### Variables CATEGÓRICAS(Cualitativas) \#### Nominal
+-   Razones para consumir o no consumir quinua (ejemplo: salud, preferencia de sabor, precio, etc.).
+-   Tipos de preparación de quinua en los hogares (ejemplo: sopas, ensaladas, platos principales, etc.).
+-   Tipos de quinua preferida en los hogares (ejemplo: blanca, roja y negra)
+-   Lugar de compra para el consumo de quinua (Mercados, supermercados, tiendas, etc.).
+
+#### Ordinal
+
+-   Frecuencia de consumo de quinua (ejemplo: nunca, ocasionalmente, frecuentemente, todos los días).
+-   Conocimiento sobre los beneficios de la quinua (Nulo, poco, moderado, alto)
+-   Facilidad en la preparación de la quinua en el hogar (muy difícil, difícil, moderada, fácil, muy fácil).
+-   Satisfacción por el precio de la quinua (muy insatisfecho, insatisfecho, neutral, satisfecho", muy satisfecho)
